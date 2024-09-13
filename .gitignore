@@ -9,3 +9,5 @@ backend/__pycache__/
 # Ignore Manual folder in backend
 backend/Manual/
 
+# Ignore specific files in frontend folder
+frontend/.env
